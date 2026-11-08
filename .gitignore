@@ -1,0 +1,16 @@
+.DS_Store
+.build/
+.swiftpm/
+dist/
+*.app/
+*.zip
+*.mp3
+*.m4a
+*.aac
+*.wav
+*.flac
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.lrc
